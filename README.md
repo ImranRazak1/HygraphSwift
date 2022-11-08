@@ -1,4 +1,4 @@
-# # HygraphSwift
+#HygraphSwift
 
 This is Collection Views an app made using UICollectionViews with UIKit. Multiple different layouts in a fake app store. The app connects through async URL session to the CMS which delegates the GraphQL with commands from the app and then return to the data to the app then decodes it and presents the information in a table view.
 
